@@ -1,0 +1,1 @@
+document.bodyt.backgroundColor = "red";
